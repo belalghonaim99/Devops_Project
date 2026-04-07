@@ -23,6 +23,12 @@ This web application displays lists of board games and their reviews. While anyo
 - Twitter Bootstrap
 - Maven
 
+## Future Improvements
+Add Docker support 🐳
+Deploy to cloud (AWS / Azure) ☁️
+Add automated testing 🧪
+Full CI/CD pipeline configuration
+
 ## Tools Overview and Show Cases
 
 ![BoardGameListingWebApp](./docs/imgs/BoardGameListingWebApp.jpg)
